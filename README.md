@@ -1,4 +1,4 @@
-#Movies List Android App
+# Movies List Android App
 
 - Displays three tabs for Upcoming, Top Rated and Popular Movies.
 - Shows movies as a list in each tab using The Movie Database (TMDB) API.
